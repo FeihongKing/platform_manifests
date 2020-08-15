@@ -5,8 +5,7 @@
            revision="anbox/master" />
   <remote  name="aosp"
            revision="refs/tags/android-r-preview-4"
-           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/manifest/"
-           review="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/manifest/" />
+           review="https://aosp.tuna.tsinghua.edu.cn/platform/manifest/" />
   <default revision="refs/tags/android-r-preview-4"
            remote="aosp"
            sync-j="4" />
